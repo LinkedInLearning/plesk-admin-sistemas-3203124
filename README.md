@@ -19,10 +19,11 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 ## Instalación
 
 1. Para utilizar estos archivos de ejercicios, debes tener descargado lo siguiente:
-   - [software]
+   - Plesk Obsidian
+   - Licencia Plesk "Web Host Edition"
 
-2. Clona este repositorio en tu máquina local usando la Terminal (macOS) o CMD (Windows), o una herramienta GUI como SourceTree.
-3. [Instrucciones específicas del curso].
+2. Copiar las directivas que se quieran añadir de los ficheros panel.ini del repositorio.
+3. Añadir o modificar las directivas en el fichero panel.ini en la ruta /usr/local/psa/admin/conf/panel.ini.
 
 ### Docente
 
